@@ -12,21 +12,32 @@ let's move to the tutorial!!!
 2.Download the zip file
 [CLICK FOR DOWNLOAD ZIP](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip)
 
-3.create a folder and extract all contents of [zip-file](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip)
+3.extract all contents of [zip-file](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip)
 
 4.Open termux and run calculator by the commands:
 ```sh
 cd {your folder name}
 ```
 Make sure that all files and holder in home (Termux storage)
-if they not move them in home
-if all is going along the way my instruction copy and paste:
+if they not move them in home.
+
+if all is going along the way my instruction copy and paste
+to termux:
 ```sh
 chmod +x init.sh
 ./init.sh
 ```
 
 # **_EXTRA TUTORIAL_**
+_In the future more detailed tutorials will be added here if there are issues_
+
+
+# **_LOGS_**
+I'm tired of writing and editing this md file so just enjoy.
+
+byye!🫡
+
+good morning/day/evening/night 😎!
 
 
 
