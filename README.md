@@ -20,12 +20,16 @@ let's move to the tutorial!!!
 1.Download the termux
 [CLICK FOR DOWNLOAD TERMUX](https://f-droid.org/repo/com.termux_118.apk)
 
-2.Download the zip file
+2.install python by the command
+```sh
+pkg install python
+```
+3.Download the zip file
 [CLICK FOR DOWNLOAD ZIP](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip)
 
-3.extract all contents of [zip-file](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip) to home (termux)
+4.extract all contents of [zip-file](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip) to home (termux)
 
-4.Open termux and run calculator by the commands:
+5.Open termux and run calculator by the commands:
 ```sh
 cd {your folder name}
 ```
