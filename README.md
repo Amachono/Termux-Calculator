@@ -9,8 +9,6 @@ to Jonathan Hartley for creating amazing library named
 
 And to Guido Van Rossum 🧑‍💻 for creating 🖨️python🖨️!
 
-I can point everyone out like that.
-
 And to all developers if i used something that created by them💫...
 
 let's move to the tutorial!!!
