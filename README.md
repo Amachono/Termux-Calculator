@@ -2,6 +2,17 @@
 All credits supposed to OpenAi company
 (i wrote code using ChatGpt🥲)
 
+And
+to Jonathan Hartley for creating amazing library named
+
+"🎨colorama🎨"
+
+And to Guido Van Rossum 🧑‍💻 for creating 🖨️python🖨️!
+
+I can point everyone out like that.
+
+And to all developers if i used them something💫
+
 let's move to the tutorial!!!
 
 # **_TUTORIAL_**
