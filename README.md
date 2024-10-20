@@ -23,7 +23,7 @@ let's move to the tutorial!!!
 2.Download the zip file
 [CLICK FOR DOWNLOAD ZIP](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip)
 
-3.extract all contents of [zip-file](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip)
+3.extract all contents of [zip-file](https://github.com/Amachono/Termux-Calculator/archive/refs/heads/main.zip) to home (termux)
 
 4.Open termux and run calculator by the commands:
 ```sh
