@@ -29,7 +29,7 @@ pkg install python
 
 5.Open termux and run calculator by the commands:
 ```sh
-cd {your folder name}
+cd Termux-Calculator-main
 ```
 Make sure that all files and holder in home (Termux storage)
 if they not move them in home.
